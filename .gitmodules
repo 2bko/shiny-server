@@ -1,0 +1,3 @@
+[submodule "apps/simplenn"]
+	path = apps/simplenn
+	url = git@github.com:2bko/simplenn.git

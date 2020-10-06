@@ -1,4 +1,6 @@
+.idea/
 build/
+tmp/
 npm-debug.log
 *.swp
 .DS_Store
